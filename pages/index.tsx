@@ -5,9 +5,9 @@ function Home() {
   return (
     <Page className="flex flex-col align-middle gap-12">
       <section className="flex flex-col text-center gap-6">
-        <Text variant="h1">Welcome to a new era of contractor support</Text>
+        <Text variant="h1">Welcome to a new era of coding support</Text>
         <Text className="text-zinc-600 text-center ">
-       CODE-EXPERT is Guttermade's Chat-GPT AI construction Assistant. he was built by Dustin Keith and Ryan Fortin to help people in building decks. In any capacity. he is construction focused, but capable of so much more. Go ahead and ask him anything, and start planning your project.
+       CODE-EXPERT is Guttermade's Chat-GPT AI coding-expert. he was built by Dustin Keith to help people with coding questions. In any capacity. he is coding and programming focused, but capable of so much more. Go ahead and ask him anything, and start writing your code.
         </Text>
       </section>
 
